@@ -1,0 +1,25 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+.bg-primary {
+	background-color: honeydew !important ;
+	color: black !important;
+}
+
+body {
+	color: black !important ;
+	background-color: whitesmoke !important;
+}
+
+#photos {
+	max-width: 400px;
+	margin: auto;
+}
+
+.carousel-item {
+	width: 400px;
+	height: auto;
+}
+
+h1, h2 {
+	font-family: monospace !important;
+	font-weight: bold !important;
+}
